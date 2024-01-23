@@ -1,5 +1,4 @@
 <h1> Going on The Road Travel Website </h1>
-Description
 Welcome to the "Going on The Road" travel website, where adventure meets comfort! This project showcases a responsive and visually appealing website for a travel agency, providing users with a seamless experience to explore popular tours, captivating stories, and easily get in touch with the agency. <br/><br/>
 
 
